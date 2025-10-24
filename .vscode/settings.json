@@ -1,0 +1,14 @@
+
+{
+  "editor.formatOnSave": false,
+  "scss.format.enable": false,
+  "html.format.enable": false,
+  "json.format.enable": false,
+  "java.format.enabled": false,
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "css.format.enable": false,
+  "less.format.enable": false
+}
+
+
